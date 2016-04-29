@@ -16,6 +16,6 @@ baseurl: "git@github.com:MichaelXu001/b.io.git" # the subpath of your site, e.g.
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-sass:true
+
 # Build settings
 markdown: kramdown
